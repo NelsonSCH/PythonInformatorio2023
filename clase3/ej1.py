@@ -2,3 +2,7 @@
 
 verduleria = {"banana": 200 , "manzana": 500, "naranja": 800}
 print(verduleria)
+import msvcrt
+
+print("Presione una tecla para continuar...")
+msvcrt.getch()
